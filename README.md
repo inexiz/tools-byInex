@@ -1,5 +1,7 @@
-# tools-byInex
+# tools-by inexiz
 Tools that well help you in your journey
+![Capture](https://github.com/user-attachments/assets/0cedc11f-2399-4e4e-8e9e-184102b6d65e)
+
 Usage Instructions:
 
 Run the Script: Execute the script in your terminal or command prompt.
